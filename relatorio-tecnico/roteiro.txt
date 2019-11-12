@@ -1,0 +1,9 @@
+Resumo: essa sessão deverá apresentar os tópicos que serão abordados no whitepaper (assuntos).
+Introdução: deverá falar sobre o problema, como encaminhamos a solução e o resultado final.
+História da educação: esta sessão deverá abordar a evolução da educação nos ultimos tempos (definir período) até hoje.
+Eduacação 4.0: Identificar as perspectivas da educação para o mundo 4.0 (mencionar IA como ferramenta da Educação 4.0)
+IA e Machine Learning: Abordar técnicas de IA e definir machine learnig
+Ensino individualizado: o que é o ensino 1x1 e como a IA pode auxliar nesse processo.
+Resultados obtidos: 
+Próximos passos:
+Equipe e agradecimento: incluir o Gabriel, professores e FTT no texto de agredecimento.
