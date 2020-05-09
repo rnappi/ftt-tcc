@@ -1,0 +1,45 @@
+APRESENTAÇÃO
+- Aplicar melhorias (box azul)
+- Refazer o slide de aplicação (Aula Daniel)
+- Criar slide para resultados
+
+
+02:00 Masa: 	Introdução + Resumo educação (1, 2, 3 e resultados)
+02:00 Coqui:	Educação no brasil + Educação 4.0 + Objetivos geral e específico (4, 5 e 6)
+04:00 William: 	KNN visão geral + Metodologia
+04:00 Rodrigo: 	Aplicação do KNN
+02:00 Masa: 	Resultados
+05:00:Definir	Apresentação
+01:00 Coqui: 	Considerações finais
+ABRIR PARA PERGUNTAS
+
+
+GITHUB
+- Organizar github
+- Formatar a aplicação console
+- Criar a documentação para instalação e build do projeto
+- Disponibilizar a base em formato (MySQL e o resultado da views em csv)
+
+
+ARTIGO CIENTÍFICO
+- Fazer as experiências e gerar os resultados
+- Complementar os resultados com os dados que obtidos na experiência
+- Escrever as considerações finais
+- Escrever o resumo / abstract
+- Definir palavras-chave / keywords
+- Revisar todo o texto
+
+
+RELATÓRIO-TÉCNICO
+- Finalizar Educação 4.0
+- Autores: 
+	Confirmar se devemos incluir o Gabriel? 
+	Incluir foto e texto do William
+- Incluir metodologia
+- Incluir resultados
+- Incluir considerações finais
+- Devemos incluir referências bibliográficas?????
+- github do projeto
+
+
+CORRER PARA O ABRAÇO!!!!!!
