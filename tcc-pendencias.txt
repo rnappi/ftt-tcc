@@ -3,7 +3,6 @@ APRESENTAÇÃO
 - Refazer o slide de aplicação (Aula Daniel)
 - Criar slide para resultados
 
-
 02:00 Masa: 	Introdução + Resumo educação (1, 2, 3 e resultados)
 02:00 Coqui:	Educação no brasil + Educação 4.0 + Objetivos geral e específico (4, 5 e 6)
 04:00 William: 	KNN visão geral + Metodologia
