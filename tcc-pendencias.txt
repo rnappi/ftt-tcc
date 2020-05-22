@@ -1,7 +1,9 @@
 APRESENTAÇÃO
-- Aplicar melhorias (box azul)
-- Refazer o slide de aplicação (Aula Daniel)
-- Criar slide para resultados
+FEITO - Aplicar melhorias (box azul)
+FEITO - Refazer o slide de aplicação (Aula Daniel)
+FEITO - Criar slide para resultados
+Aplicar as novas correções na apresentação (box vermelho)
+
 
 02:00 Masa: 	Introdução + Resumo educação (1, 2, 3 e resultados)
 02:00 Coqui:	Educação no brasil + Educação 4.0 + Objetivos geral e específico (4, 5 e 6)
@@ -15,12 +17,14 @@ ABRIR PARA PERGUNTAS
 
 GITHUB
 - Organizar github
-- Formatar a aplicação console
+FEITO - Formatar a aplicação console
 - Criar a documentação para instalação e build do projeto
-- Disponibilizar a base em formato (MySQL e o resultado da views em csv)
+FEITO - Disponibilizar a base em formato (MySQL e o resultado da views em csv)
 
 
 ARTIGO CIENTÍFICO
+- Falar com o Daniel para definir a melhor forma de validar os resultados do KNN
+- Propor uma forma de descrever os resultados para o Gabriel e aprovar
 - Fazer as experiências e gerar os resultados
 - Complementar os resultados com os dados que obtidos na experiência
 - Escrever as considerações finais
@@ -32,12 +36,13 @@ ARTIGO CIENTÍFICO
 RELATÓRIO-TÉCNICO
 - Finalizar Educação 4.0
 - Autores: 
-	Confirmar se devemos incluir o Gabriel? 
+	Como devemos incluir o Gabriel?
 	Incluir foto e texto do William
 - Incluir metodologia
 - Incluir resultados
 - Incluir considerações finais
-- Devemos incluir referências bibliográficas?????
+- Devemos incluir referências bibliográficas? 
+	Sim, devemos incluir todas que forem mensionadas no texto do relatório técnico!
 - github do projeto
 
 
