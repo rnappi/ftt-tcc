@@ -3,9 +3,9 @@ import { createAttempts } from "./attempts-module.js";
 
 const startup = {
     qtdStudents: 2000,
-    qtdAttempts: 500,
+    qtdAttempts: 2000,
     initialStudentId: 1,
-    initialAttemptId: 1
+    initialAttemptId: 501
 }
 
 const teacher = `insert into professores values (1, 'Professor 1');`;
@@ -33,12 +33,12 @@ const alternatives = createAlternatives();
 document.querySelector('#alternative-content').innerHTML = alternatives;
 
 const contents = createContents();
-//document.querySelector('#contents-content').innerHTML = contents;
+document.querySelector('#contents-content').innerHTML = contents;
 
 const attempts = createAttempts(startup.initialAttemptId, startup.qtdAttempts);
 
 const insertAttempts = attempts.reduce((sql, attempt) => {
-    return sql += `insert into tentativas values (${attempt.id}, ${attempt.student}, ${attempt.id_test}, ${attempt.content.id});<br>`;
+    return sql += `insert into tentativas values (${attempt.id}, ${attempt.student}, ${attempt.id_test}, ${attempt.content.id}, null);<br>`;
 }, '');
 document.querySelector('#attempts-content').innerHTML = insertAttempts;
 
@@ -53,9 +53,9 @@ const insertAnswers = (() => {
 
     return sql;
 })();
-//document.querySelector('#answers-content').innerHTML = insertAnswers;
+document.querySelector('#answers-content').innerHTML = insertAnswers;
 
-console.log(attempts);
+//console.log(attempts);
 
 
 //document.querySelector('#attempts-content').innerHTML = attempts;

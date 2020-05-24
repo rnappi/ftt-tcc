@@ -1,20 +1,20 @@
 export const contents = [
     {
-        id: 1,
-        description: 'Aula 03 – Pronomes de Tratamento',
-        url: 'https://gramaticaemvideo.com.br/aula/aula-03-pronomes-de-tratamento/',
+        id: 4,
+        description: 'Pronomes pessoais',
+        url: 'https://www.youtube.com/watch?v=PQRdgiIutrE&list=PLVyIxkvuIqxrhBoLoM9Ydk8HOrNXEsQhD',
         value: 0
     },
     {
-        id: 2,
-        description: 'Aula 04 - Pronomes possessivos',
-        url: 'https://www.youtube.com/watch?v=1r-OJYnxgZo',
+        id: 5,
+        description: 'Pronomes de tratamento',
+        url: 'https://www.youtube.com/watch?v=fYEeSIiIA5E',
         value: 0
     },
     {
-        id: 3,
+        id: 6,
         description: 'Pronomes Relativos',
-        url: 'https://www.youtube.com/watch?v=70dyjrhTRKk',
+        url: 'https://www.youtube.com/watch?v=ocwqxQmGHuU',
         value: 0
     }
 ];

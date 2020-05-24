@@ -8,7 +8,7 @@ export const createAttempts = (initialAttemptId, totalAttempts) => {
     let attempts = [];
 
     for(let i = initialId; i < limit; i++) {
-        let attempt = createAttempt(i);
+        let attempt = createAttempt((i - initialId) + 1);
         attempt.id = i;
         attempt.id_test = test.id;
         attempts.push(attempt);

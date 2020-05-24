@@ -2,9 +2,9 @@ import {contents} from "./contents-module.js";
 import {questions} from "./questions-module.js";
 
 export const test = {
-    id: 1,
+    id: 2,
     id_teacher: 1,
-    name: "Português - Gramática"
+    name: "Português - Pronomes"
 };
 
 export const createTest = () => {

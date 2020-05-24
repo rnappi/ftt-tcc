@@ -1,552 +1,552 @@
 export const questions = [
     {
-        id: 1,
-        description: 'O pronome de tratamento que melhor completa a oração a seguir é: __________________, cardeal Dom Sérgio da Rocha, acompanhará o Papa em sua visita ao Brasil.',
-        alternatives: [
+        id: 13,
+        description: '(TTN) Assinale a frase em que a colocação do pronome pessoal oblíquo não obedece às normas do português padrão:',
+        alternatives:[
             {
-                id: 1,
-                description: 'Vossa Excelência Reverendíssima.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 2,
-                description: 'Vossa Santidade.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 3,
-                description: 'Vossa Eminência.',
+                id: 49,
+                description: 'Essas vitórias pouco importam; alcançaram-nas os que tinham mais dinheiro.',
                 isCorrect: true,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
                 ]
             },
             {
-                id: 4,
+                id: 50,
+                description: 'Entregaram-me a encomenda ontem, resta agora a vocês oferecerem-na ao chefe.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 51,
+                description: 'Ele me evitava constantemente!... Ter-lhe-iam falado a meu respeito?Vossa Majestade, a princesa da Inglaterra, foi homenageada por ocasião do seu aniversário.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 52,
+                description: 'Estamos nos sentido desolados: temos prevenido-o várias vezes e ele não nos escuta.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 14,
+        description: '(IBGE) Assinale a opção em que houve erro no emprego do pronome pessoal em relação ao uso culto da língua:',
+        alternatives:[
+            {
+                id: 53,
+                description: 'Ele entregou um texto para mim corrigir.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 54,
+                description: 'Para mim, a leitura está fácil.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 55,
+                description: 'Isto é para eu fazer agora.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 56,
+                description: 'Não saia sem mim. ',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 15,
+        description: '(FUVEST) Assinale a alternativa onde o pronome pessoal está empregado corretamente:',
+        alternatives:[
+            {
+                id: 57,
+                description: 'Este é um problema para mim resolver.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 58,
+                description: 'Entre eu e tu não há mais nada.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 59,
+                description: 'A questão deve ser resolvida por eu e você.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 60,
+                description: 'Para mim, viajar de avião é um suplício. ',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 16,
+        description: '(UF-PR) Aponte a alternativa que contém o período correto quanto à colocação do pronome pessoal:',
+        alternatives:[
+            {
+                id: 61,
+                description: 'Se encontrá-lo, não lhe diga que viu-me.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 62,
+                description: 'Se o encontrar, não lhe diga que me viu.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 63,
+                description: 'Se o encontrar, não lhe diga que viu-me.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 64,
+                description: 'Se encontrá-lo, não diga-lhe que me viu.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 10 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 17,
+        description: '(U-UBERLÂNDIA) Assinale o tratamento dado ao reitor de uma Universidade:',
+        alternatives:[
+            {
+                id: 65,
+                description: 'Vossa Senhoria.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 66,
+                description: 'Vossa Santidade.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 67,
+                description: 'Vossa Excelência.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 68,
                 description: 'Vossa Magnificência.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
                 ]
             }
         ]
     },
     {
-        id: 2,
+        id: 18,
+        description: '(UF-RJ) Numa das frases, está usado indevidamente um pronome de tratamento. Assinale-a:',
+        alternatives:[
+            {
+                id: 69,
+                description: 'Os Reitores das Universidades recebem o título de Vossa Magnificência.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 70,
+                description: 'Sua Excelência, o Senhor Ministro, não compareceu à reunião.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 71,
+                description: 'Senhor Deputado, peço a Vossa Excelência que conclua a sua oração.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 72,
+                description: 'Sua Eminência, o Papa Paulo VI, assistiu à solenidade.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 19,
+        description: '(FMU) Suponha que você deseje dirigir-se a personalidades eminentes, cujos títulos são: papa, juiz, cardeal, reitor e coronel. Assinale a alternativa que contém a abreviatura certa da "expressão de tratamento" correspondente ao título enumerado:',
+        alternatives:[
+            {
+                id: 73,
+                description: 'Papa ............... V. As',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 74,
+                description: 'Juiz ................. V. Ema',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 75,
+                description: 'Cardeal ........... V.M.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 76,
+                description: 'Reitor ............... V. Maga',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 20,
         description: '(FCC- modificada) Os pronomes de tratamento estão empregados corretamente em:',
         alternatives:[
             {
-                id: 5,
+                id: 77,
                 description: 'Espera-se que, no Brasil, Sua Santidade, o Papa Francisco, seja recebido, com o devido respeito, pelos jovens.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 6,
-                description: 'O advogado assim se pronunciou perante o juiz: - Peço a Vossa Senhoria que ouça o depoimento desta nova testemunha.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
                 ]
             },
             {
-                id: 7,
+                id: 78,
+                description: 'O advogado assim se pronunciou perante o juiz: - Peço a Vossa Senhoria que ouça o depoimento desta nova testemunha.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 79,
                 description: 'Vossa Majestade, a princesa da Inglaterra, foi homenageada por ocasião do seu aniversário.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
                 ]
             },
             {
-                id: 8,
+                id: 80,
                 description: 'Refiro-me ao Ilustríssimo Senhor, Cardeal de Brasília, ao enviar-lhe as notícias do Conclave.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 10 },
+                    { id: 6, value: 0 },
                 ]
             }
         ]
     },
     {
-        id: 3,
-        description: '(Prime Concursos) O pronome de tratamento Vossa Reverendíssima é usado para:',
+        id: 21,
+        description: '(UEPG-PR) Assinale a alternativa em que a palavra onde funciona como pronome relativo:',
         alternatives:[
             {
-                id: 9,
-                description: 'Reitores de universidades.',
+                id: 81,
+                description: 'Não sei onde eles estão.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             },
             {
-                id: 10,
-                description: 'Sacerdotes em geral.',
+                id: 82,
+                description: 'Onde estás que não respondes?',
                 isCorrect: true,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             },
             {
-                id: 11,
-                description: 'Papas.',
+                id: 83,
+                description: 'A instituição onde estudo é a UEPG.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
                 ]
             },
             {
-                id: 12,
-                description: 'Altas autoridades.',
+                id: 84,
+                description: 'Ele me deixou onde está a catedral. ',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             }
         ]
     },
     {
-        id: 4,
-        description: '(Crescer Consultoria) Vossa Eminência é o pronome de tratamento utilizado para:',
+        id: 22,
+        description: '(FIUBE-MG) Assinale o item em que não aparece pronome relativo:',
         alternatives:[
             {
-                id: 13,
-                description: 'Príncipes.',
+                id: 85,
+                description: 'O que queres não está aqui.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             },
             {
-                id: 14,
-                description: 'Imperadores.',
+                id: 86,
+                description: 'Temos que estudar mais.',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
                 ]
             },
             {
-                id: 15,
-                description: 'Cardeais.',
+                id: 87,
+                description: 'A estrada por que passei é estreita.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
+                ]
+            },
+            {
+                id: 88,
+                description: 'A prova que faço não é difícil.',
                 isCorrect: true,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 16,
-                description: 'Reitores de universidades.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 10 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             }
         ]
     },
     {
-        id: 5,
-        description: '(Copeve-Ufal) Que frase abaixo apresenta pronome(s) possessivo(s)?',
+        id: 23,
+        description: '(FUVEST) Conheci que (1) Madalena era boa em demasia... A culpa foi desta vida agreste que (2) me deu uma alma agreste. Procuro recordar o que (3) dizíamos. Terá realmente piado a coruja? Será a mesma que (4) piava há dois anos? Esqueço que (5) eles me deixaram e que (6) esta casa está quase deserta. Nas frases acima o que aparece seis vezes; em três delas é pronome relativo. Quais?',
         alternatives:[
             {
-                id: 17,
-                description: 'Aqueles meninos são do morro.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 18,
-                description: 'Lá que moram meus amigos, meus irmãos.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 19,
-                description: 'Eu gosto disso.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 20,
-                description: 'Esse é o morro.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 6,
-        description: '(IBGP) Assinale a alternativa em que todos os vocábulos são pronomes possessivos.',
-        alternatives:[
-            {
-                id: 21,
-                description: 'Nosso – deste – que.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 22,
-                description: 'Quem – essa – seu.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 23,
-                description: 'Nosso – seu – que.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 24,
-                description: 'Nosso – seu – suas.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 7,
-        description: '(Makiyama) Dentre as frases abaixo, marque aquela em que há uso de pronome possessivo:',
-        alternatives:[
-            {
-                id: 25,
-                description: 'Pegou os processos com ele.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 26,
-                description: 'Você precisa aprender as novas regras.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 27,
-                description: 'Nossa família veio assim que soube.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 28,
-                description: 'O mal foi este: criar os filhos como príncipes.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 8,
-        description: 'Identifique os pronomes possessivos na frase a seguir e classifique-os em pronome substantivo ou pronome adjetivo: Ele guardou seus documentos. Não guardou os meus.',
-        alternatives:[
-            {
-                id: 29,
-                description: 'seus – pronome substantivo',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 30,
-                description: 'seus – pronome adjetivo; meus – pronome substantivo',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 31,
-                description: 'meus – pronome adjetivo',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 32,
-                description: 'seus – pronome adjetivo',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 10 },
-                    { id: 3, value: 0 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 9,
-        description: '(ETF-SP) Em "O casal de índios levou-os à sua aldeia, que estava deserta, onde ofereceu frutas aos convidados", temos:',
-        alternatives:[
-            {
-                id: 33,
-                description: 'Dois pronomes possessivos e dois pronomes pessoais.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 34,
-                description: 'Um pronome pessoal, um pronome possessivo e dois pronomes relativos',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 35,
-                description: 'Dois pronomes pessoais e dois pronomes relativos',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 36,
-                description: 'Um pronome pessoal, um pronome possessivo, um pronome relativo e um pronome interrogativo',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 10,
-        description: 'Assinale o item em que não aparece pronome relativo:',
-        alternatives:[
-            {
-                id: 37,
-                description: 'O que fazes não está correto.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 38,
-                description: 'A vida que levo não é fácil.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 39,
-                description: 'O caminho por que passei é um atalho.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 40,
-                description: 'Temos que trabalhar aos sábados.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 11,
-        description: 'Assinale o período em que foi empregado um pronome relativo inadequadamente:',
-        alternatives:[
-            {
-                id: 41,
-                description: 'O livro a que eu me refiro é Estrela da manhã, do Manuel Bandeira.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 42,
-                description: 'Ela é uma pessoa de cuja idoneidade ninguém duvida.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 43,
-                description: 'O homem de cujo lhe falei ontem é este.',
-                isCorrect: true,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
-                ]
-            },
-            {
-                id: 44,
-                description: 'O tribunal do juri perante o qual o réu foi condenado foi implacável.',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            }
-        ]
-    },
-    {
-        id: 12,
-        description: '(FUVEST) Conheci que (1) Madalena era boa em demasia... A culpa foi desta vida agreste que (2) me deu uma alma agreste. Procuro recordar o que (3) dizíamos. Terá realmente piado a coruja? Será a mesma que (4) piava há dois anos? Esqueço que (5) eles me deixaram e que (6) esta casa está quase deserta. Nas frases anteriores o "QUE" aparece seis vezes; em três delas é pronome relativo. Quais?',
-        alternatives:[
-            {
-                id: 45,
+                id: 89,
                 description: '1, 2, 4',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             },
             {
-                id: 46,
+                id: 90,
                 description: '2, 4, 6',
                 isCorrect: false,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             },
             {
-                id: 47,
+                id: 91,
                 description: '3, 4 , 5',
-                isCorrect: false,
-                contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 10 },
-                ]
-            },
-            {
-                id: 48,
-                description: '2, 3, 4',
                 isCorrect: true,
                 contents: [
-                    { id: 1, value: 0 },
-                    { id: 2, value: 0 },
-                    { id: 3, value: 0 },
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
+                ]
+            },
+            {
+                id: 92,
+                description: '2, 3, 4',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            }
+        ]
+    },
+    {
+        id: 24,
+        description: '(ETF-SP) Em "O casal de índios levou-os à sua aldeia, que estava deserta, onde ofereceu frutas aos convidados", temos:',
+        alternatives:[
+            {
+                id: 93,
+                description: 'dois pronomes possessivos e dois pronomes pessoais.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
+                ]
+            },
+            {
+                id: 94,
+                description: 'um pronome pessoal, um pronome possessivo e dois pronomes relativos.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 0 },
+                ]
+            },
+            {
+                id: 95,
+                description: 'dois pronomes pessoais e dois pronomes relativos.',
+                isCorrect: false,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
+                ]
+            },
+            {
+                id: 96,
+                description: 'um pronome pessoal, um pronome possessivo, um pronome relativo e um pronome interrogativo.',
+                isCorrect: true,
+                contents: [
+                    { id: 4, value: 0 },
+                    { id: 5, value: 0 },
+                    { id: 6, value: 10 },
                 ]
             }
         ]
