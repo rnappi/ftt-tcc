@@ -1,7 +1,9 @@
-APRESENTAÇÃO
-- Aplicar melhorias (box azul)
-- Refazer o slide de aplicação (Aula Daniel)
-- Criar slide para resultados
+APRESENTAÇÃO (Revisar toda a apresentação depois dos ajustes e resultados)
+FEITO - Aplicar melhorias (box azul)
+FEITO - Refazer o slide de aplicação (Aula Daniel)
+FEITO - Criar slide para resultados
+Aplicar as novas correções na apresentação (box vermelho)
+
 
 02:00 Masa: 	Introdução + Resumo educação (1, 2, 3 e resultados)
 02:00 Coqui:	Educação no brasil + Educação 4.0 + Objetivos geral e específico (4, 5 e 6)
@@ -15,29 +17,59 @@ ABRIR PARA PERGUNTAS
 
 GITHUB
 - Organizar github
-- Formatar a aplicação console
+FEITO - Formatar a aplicação console
 - Criar a documentação para instalação e build do projeto
-- Disponibilizar a base em formato (MySQL e o resultado da views em csv)
+FEITO - Disponibilizar a base em formato (MySQL e o resultado da views em csv)
+
+
+BASE DO NOVO QUESTIONÁRIO
+- Gerar a base com as respostas do questionário que foi enviado (Rodrigo)
+
+
+NOTEBOOK
+- Gerar o notebook com a documentação do projeto (Will/Rodrigo)
+
+
+MYSQL (Plano)
+- Disponibilizar o acesso do MySQL para o Coqui 
+(Will vai estudar o python anywere/Rodrigo vai ver a possibilidade de Amazon ou Azure)
 
 
 ARTIGO CIENTÍFICO
+FEITO - Falar com o Daniel para definir a melhor forma de validar os resultados do KNN
+FEITO - Propor uma forma de descrever os resultados para o Gabriel e aprovar
+	Criar o prototipo da ferramenta 
+	Gráficos que mostram a relação entre a acurácia e o volume de dados na base. Assim, o professor saberá o minímo de respostas necessárias.
+
 - Fazer as experiências e gerar os resultados
 - Complementar os resultados com os dados que obtidos na experiência
+
+- Incluir no artigo científico o que foi conversado com o Gabriel (Masanori)
+	- Deixar claro, no artigo todo, que o KNN existe para que o sistema se "adapte" aos critérios de avaliação do professor
+	- Incluir o conteúdo das frases do Gabriel:
+		"Foi feita uma simplificação da complexidade do problema criando-se um critério de avaliação padroniizado"
+		"Sendo assim, este artigo tem como objetivo apresentar uma ferramenta que, por meio da
+inteligência artificial – especialmente do Aprendizado de Máquina supervisionado, auxilie o
+professor a identificar as dificuldades dos alunos de forma individualizada e assertiva,
+sugerindo a ele o melhor conteúdo possível para cada discente, mas sempre respeitando o critério de avaliação do professor."
+	- Ajustar a metodologia
+	
 - Escrever as considerações finais
 - Escrever o resumo / abstract
 - Definir palavras-chave / keywords
 - Revisar todo o texto
 
 
-RELATÓRIO-TÉCNICO
+RELATÓRIO-TÉCNICO (Rodrigo)
 - Finalizar Educação 4.0
 - Autores: 
-	Confirmar se devemos incluir o Gabriel? 
-	Incluir foto e texto do William
+	Como devemos incluir o Gabriel (Ele vai validar com a Michele)
+	Incluir foto e texto do William (Rodrig vai incluir no relatório)
 - Incluir metodologia
 - Incluir resultados
 - Incluir considerações finais
-- Devemos incluir referências bibliográficas?????
+- Devemos incluir referências bibliográficas? 
+	Sim, devemos incluir todas que forem mensionadas no texto do relatório técnico!
 - github do projeto
 
 
