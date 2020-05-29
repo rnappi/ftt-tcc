@@ -23,7 +23,7 @@ FEITO - Disponibilizar a base em formato (MySQL e o resultado da views em csv)
 
 
 BASE DO NOVO QUESTIONÁRIO
-- Gerar a base com as respostas do questionário que foi enviado (Rodrigo)
+FEITO - Gerar a base com as respostas do questionário que foi enviado (Rodrigo)
 
 
 NOTEBOOK
@@ -64,7 +64,7 @@ RELATÓRIO-TÉCNICO (Rodrigo)
 - Finalizar Educação 4.0
 - Autores: 
 	Como devemos incluir o Gabriel (Ele vai validar com a Michele)
-	Incluir foto e texto do William (Rodrig vai incluir no relatório)
+	FEITO Incluir foto e texto do William (Rodrig vai incluir no relatório)
 - Incluir metodologia
 - Incluir resultados
 - Incluir considerações finais
