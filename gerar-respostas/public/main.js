@@ -2,10 +2,10 @@ import { createTest, createQuestions, createAlternatives, createContents } from 
 import { createAttempts } from "./attempts-module.js";
 
 const startup = {
-    qtdStudents: 2000,
-    qtdAttempts: 2000,
+    qtdStudents: 400,
+    qtdAttempts: 400,
     initialStudentId: 1,
-    initialAttemptId: 501
+    initialAttemptId: 1
 }
 
 const teacher = `insert into professores values (1, 'Professor 1');`;
@@ -35,7 +35,7 @@ document.querySelector('#alternative-content').innerHTML = alternatives;
 const contents = createContents();
 document.querySelector('#contents-content').innerHTML = contents;
 
-const attempts = createAttempts(startup.initialAttemptId, startup.qtdAttempts);
+let attempts = createAttempts(startup.initialAttemptId, startup.qtdAttempts);
 
 const insertAttempts = attempts.reduce((sql, attempt) => {
     return sql += `insert into tentativas values (${attempt.id}, ${attempt.student}, ${attempt.id_test}, ${attempt.content.id}, null);<br>`;
@@ -55,20 +55,8 @@ const insertAnswers = (() => {
 })();
 document.querySelector('#answers-content').innerHTML = insertAnswers;
 
-//console.log(attempts);
-
-
-//document.querySelector('#attempts-content').innerHTML = attempts;
-
-/*
-let attempts = [];
-
-for (let index = 0; index < qtdStudents; index++) {
-    attempts.push(createAttempt(index));
-}
 
 let total = {};
-
 // total de acertos e conteudo sugerido
 attempts.forEach(attempt => {
     let correctAnswers = attempt.answers.reduce((acc, answer) => {
@@ -87,4 +75,4 @@ attempts.forEach(attempt => {
         return acc.value >= c.value ? acc : c;
     });
 });
-*/
+console.log(total);
