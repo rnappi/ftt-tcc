@@ -18,7 +18,6 @@ ABRIR PARA PERGUNTAS
 GITHUB
 - Organizar github
 FEITO - Formatar a aplicação console
-- Criar a documentação para instalação e build do projeto
 FEITO - Disponibilizar a base em formato (MySQL e o resultado da views em csv)
 
 
@@ -27,31 +26,26 @@ FEITO - Gerar a base com as respostas do questionário que foi enviado (Rodrigo)
 
 
 NOTEBOOK
-- Gerar o notebook com a documentação do projeto (Will/Rodrigo)
+FEITO Gerar o notebook com a documentação do projeto (Todos)
 
 
 MYSQL (Plano)
-- Disponibilizar o acesso do MySQL para o Coqui 
-(Will vai estudar o python anywere/Rodrigo vai ver a possibilidade de Amazon ou Azure)
+FEITO CSV Coqui para fazer o dashboard
 
 
 ARTIGO CIENTÍFICO
 FEITO - Falar com o Daniel para definir a melhor forma de validar os resultados do KNN
 FEITO - Propor uma forma de descrever os resultados para o Gabriel e aprovar
-	Criar o prototipo da ferramenta 
-	Gráficos que mostram a relação entre a acurácia e o volume de dados na base. Assim, o professor saberá o minímo de respostas necessárias.
+	Criar o prototipo da ferramenta (Rodrigo) 
 
-- Fazer as experiências e gerar os resultados
+FEITO Fazer as experiências e gerar os resultados
 - Complementar os resultados com os dados que obtidos na experiência
 
 - Incluir no artigo científico o que foi conversado com o Gabriel (Masanori)
 	- Deixar claro, no artigo todo, que o KNN existe para que o sistema se "adapte" aos critérios de avaliação do professor
 	- Incluir o conteúdo das frases do Gabriel:
 		"Foi feita uma simplificação da complexidade do problema criando-se um critério de avaliação padroniizado"
-		"Sendo assim, este artigo tem como objetivo apresentar uma ferramenta que, por meio da
-inteligência artificial – especialmente do Aprendizado de Máquina supervisionado, auxilie o
-professor a identificar as dificuldades dos alunos de forma individualizada e assertiva,
-sugerindo a ele o melhor conteúdo possível para cada discente, mas sempre respeitando o critério de avaliação do professor."
+		"Sendo assim, este artigo tem como objetivo apresentar uma ferramenta que, por meio da inteligência artificial – especialmente do Aprendizado de Máquina supervisionado, auxilie o professor a identificar as dificuldades dos alunos de forma individualizada e assertiva, sugerindo a ele o melhor conteúdo possível para cada discente, mas sempre respeitando o critério de avaliação do professor."
 	- Ajustar a metodologia
 	
 - Escrever as considerações finais
@@ -64,13 +58,13 @@ RELATÓRIO-TÉCNICO (Rodrigo)
 - Finalizar Educação 4.0
 - Autores: 
 	Como devemos incluir o Gabriel (Ele vai validar com a Michele)
-	FEITO Incluir foto e texto do William (Rodrig vai incluir no relatório)
+	FEITO Incluir foto e texto do William (Rodrigo vai incluir no relatório)
 - Incluir metodologia
 - Incluir resultados
 - Incluir considerações finais
 - Devemos incluir referências bibliográficas? 
 	Sim, devemos incluir todas que forem mensionadas no texto do relatório técnico!
-- github do projeto
+- Incluir github do projeto
 
 
 CORRER PARA O ABRAÇO!!!!!!
