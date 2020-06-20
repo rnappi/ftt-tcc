@@ -1,0 +1,15 @@
+Pensando como um humano
+“O novo e interessante esforço para fazer os computadores pensarem (...) máquinas com mentes, no sentido total e literal.“ (Haugeland, 1985)
+“[Automatização de] atividades que associamos ao pensamento humano, atividades como a tomada de decisões, a resolução de problemas, o aprendizado...“ (Bellman, 1978)
+
+Pensando racionalmente
+“O estudo das faculdades mentais pelo uso de modelos computacionais“ (Charniac e McDermott, 1985)
+“O estudo das computações que tornam possível perceber, raciocinar e agir.“ (Winston, 1992)
+
+Agindo como seres humanos
+“A arte de criar máquinas que executam funções que exigem inteligência quando executadas por pessoas.“ (Kurzweil, 1990)
+“O estudo de como os computadores podem fazer tarefas que hoje são melhores desempenhadas por pessoas“ (Rich and Knight, 1991)
+
+Agindo racionalmente
+“Inteligêcnia computacional é o estudo do projeto de agentes inteligentes.“ (Poole et al., 1998)
+“AI... está relacionada a um desempenho inteligente de artefatos.“ (Nilson, 1998)
